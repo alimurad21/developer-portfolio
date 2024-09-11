@@ -17,7 +17,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://alimurad21.netlify.app/).
+## View live preview [here](https://alimurad21.vercel.app/).
 
 ---
 
